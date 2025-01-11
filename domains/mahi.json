@@ -1,0 +1,11 @@
+{
+  "description": "Mahesh website for is-a.dev",
+  "repo": "https://github.com/cpuinfo/cpuinfo.github.io",
+  "owner": {
+    "username": "cpuinfo",
+    "email": "cpuinfo10@gmail.com"
+  },
+  "record": {
+    "CNAME": "cpuinfo.github.io"
+  }
+}
